@@ -61,3 +61,8 @@ Finally, all SQL queries and results were saved in a `.sql` file and uploaded to
 This task sharpened both my logical thinking and SQL query writing skills. I now feel more comfortable with real-time database analysis challenges and more confident handling advanced queries in professional scenarios.
 
 ### Output
+
+<img width="1235" alt="Screenshot 2025-06-19 at 5 26 37 PM" src="https://github.com/user-attachments/assets/8d440991-11fe-49e0-97fe-bae152007e97" />
+<img width="1231" alt="Screenshot 2025-06-19 at 5 28 04 PM" src="https://github.com/user-attachments/assets/d505a1e9-4ec3-49c6-849a-c0a82557eec4" />
+<img width="1453" alt="Screenshot 2025-06-19 at 5 29 43 PM" src="https://github.com/user-attachments/assets/09baa4a7-f6ec-4068-af34-3b01d09c56f2" />
+<img width="1455" alt="Screenshot 2025-06-19 at 5 30 46 PM" src="https://github.com/user-attachments/assets/1b4b4a68-d346-4a87-a172-dcb369958d31" />
